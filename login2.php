@@ -166,3 +166,5 @@
 
 	</body>
 </html>
+
+"MVP idee: Mingi online notepad (nagu google keep või evernote)"
